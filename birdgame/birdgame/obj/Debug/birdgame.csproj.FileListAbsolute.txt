@@ -1,0 +1,10 @@
+C:\Users\Jonathan\source\repos\birdgame\birdgame\bin\Debug\birdgame.exe.config
+C:\Users\Jonathan\source\repos\birdgame\birdgame\bin\Debug\birdgame.exe
+C:\Users\Jonathan\source\repos\birdgame\birdgame\bin\Debug\birdgame.pdb
+C:\Users\Jonathan\source\repos\birdgame\birdgame\obj\Debug\birdgame.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\birdgame\birdgame\obj\Debug\birdgame.Form.resources
+C:\Users\Jonathan\source\repos\birdgame\birdgame\obj\Debug\birdgame.Properties.Resources.resources
+C:\Users\Jonathan\source\repos\birdgame\birdgame\obj\Debug\birdgame.csproj.GenerateResource.cache
+C:\Users\Jonathan\source\repos\birdgame\birdgame\obj\Debug\birdgame.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\birdgame\birdgame\obj\Debug\birdgame.exe
+C:\Users\Jonathan\source\repos\birdgame\birdgame\obj\Debug\birdgame.pdb
